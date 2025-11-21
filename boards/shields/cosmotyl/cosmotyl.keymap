@@ -16,5 +16,33 @@
                                          &kp SPACE &kp LEFT &kp RIGHT              &kp UP &kp DOWN &kp BACKSPACE 
                                                  &kp LEFT_ALT &kp LEFT_GUI       &kp EQUAL &kp ENTER>;
         };
+
+        loer_layer {
+            bindings = <&trans    &trans &trans    &trans   &trans &trans                &trans &trans &trans    &trans  &trans   &trans 
+                        &trans    &trans &trans    &trans   &trans &trans                &trans &trans &trans    &trans  &trans   &trans 
+                        &trans    &trans &trans    &trans   &trans &trans                &trans &trans &trans    &trans  &trans   &trans 
+                        &trans    &trans &trans    &trans   &trans &trans                &trans &trans &trans    &trans  &trans   &trans 
+                                         &trans    &tans                                  &trans &trans 
+                                         &trans &trans &trans              &trans &trans &trans 
+                                                 &trans &trans       &trans &trans;
+        };
+        raise_layer {
+            bindings = <&trans    &trans &trans    &trans   &trans &trans                &trans &trans &trans    &trans  &trans   &trans 
+                        &trans    &trans &trans    &trans   &trans &trans                &trans &trans &trans    &trans  &trans   &trans 
+                        &trans    &trans &trans    &trans   &trans &trans                &trans &trans &trans    &trans  &trans   &trans 
+                        &trans    &trans &trans    &trans   &trans &trans                &trans &trans &trans    &trans  &trans   &trans 
+                                         &trans    &tans                                  &trans &trans 
+                                         &trans &trans &trans              &trans &trans &trans 
+                                                 &trans &trans       &trans &trans;
+        };
+        adjust_layer {
+            bindings = <&trans    &trans &trans    &trans   &trans &trans                &trans &trans &trans    &trans  &trans   &trans 
+                        &trans    &trans &trans    &trans   &trans &trans                &trans &trans &trans    &trans  &trans   &trans 
+                        &trans    &trans &trans    &trans   &trans &trans                &trans &trans &trans    &trans  &trans   &trans 
+                        &trans    &trans &trans    &trans   &trans &trans                &trans &trans &trans    &trans  &trans   &trans 
+                                         &trans    &tans                                  &trans &trans 
+                                         &trans &trans &trans              &trans &trans &trans 
+                                                 &trans &trans       &trans &trans;
+        };
     };
 };
