@@ -13,7 +13,7 @@
                         &kp LCTRL &kp A  &kp S     &kp D    &kp F  &kp G                 &kp H  &kp J  &kp K     &kp L   &kp SEMI &kp SQT 
                         &kp LSHFT &kp Z  &kp X     &kp C    &kp V  &kp B                 &kp N  &kp M  &kp COMMA &kp DOT &kp FSLH &kp RSHFT 
                                          &kp GRAVE &rgb_ug RGB_TOG                                  &kp LBKT &kp RBKT 
-                                         &kp SPACE &kp LEFT &kp RIGHT              &kp UP &kp DOWN &kp BACKSPACE 
+                                         &kp SPACE &studio_unlock &kp RIGHT              &kp UP &kp DOWN &kp BACKSPACE 
                                                  &kp LEFT_ALT &kp LEFT_GUI       &kp EQUAL &kp ENTER>;
         };
 
